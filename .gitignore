@@ -1,0 +1,4 @@
+bin/
+.vscode/
+**/*.class
+res/trajet.ser
